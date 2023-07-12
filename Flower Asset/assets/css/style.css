@@ -1,0 +1,218 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main-banner {
+  background-size: 50vh;
+  background-color: pink;
+  padding: 20px 10px 0px 10px;
+  display: flex;
+  align-items: center;
+}
+.btn{
+  padding: 12px 20px;
+  border-radius: 5px;
+  background-color: palevioletred;
+  color: white;
+  box-shadow: 0px;
+  border: none;
+}
+.image{
+  display: flex;
+}
+.phara{
+  margin: 90px;
+}
+.title{
+  font-size: 50px;
+  font-weight: bold;
+}
+.description{
+  width: 70%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.blog-container{
+  width: 100%;
+  text-align: center;
+  padding: 100px 0 20px 0;
+}
+.blog-title{
+  font-size: 55px;
+  font-weight: bold;
+}
+.blog-1{
+  width: 100%;
+  color: grey;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.box1{
+  padding: 75px;
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border-top-left-radius: 170px;
+  border-top-right-radius: 170px;
+}
+.box2{
+  padding: 75px;
+  background-color: lightblue;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border-top-left-radius: 170px;
+  border-top-right-radius: 170px;
+}
+.box3{
+  padding: 75px;
+  background-color: lightgrey;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border-top-left-radius: 170px;
+  border-top-right-radius: 170px;
+}
+.box-demo{
+  display: flex;
+  margin-left: 500px;
+  text-align: center;
+}
+.color-text{
+  color: black;
+  margin: -80px;
+  text-align: center;
+  padding-left: -100px;
+}
+.icon{
+  width: 126px;
+  padding-bottom: 20px;
+}
+.icon-2{
+  width: 180px;
+  padding-bottom: 20px;
+}
+.icon-3{
+  width: 116px;
+  padding-bottom: 20px;
+}
+.image-57{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 270px;
+  margin-right: 360px;
+  background-color: lightgray;
+}
+.images-57{
+  padding: 20px;
+  padding-bottom: 10px;
+  padding-left: 280px;
+}
+.image-58{
+ padding: 20px;
+  padding-bottom: 10px;
+  padding-left: 180px; 
+}
+.image-59{
+  padding: 20px;
+  padding-bottom: 10px;
+  padding-left: 150px; 
+}
+.image-text{
+  padding: 20px;
+  padding-bottom: 20px;
+  padding-left: 240px;
+}
+.image-text1{
+  padding: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+}
+.image-text2{
+  padding: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  margin-right: 100px;
+}
+.middle-banner {
+  background-size: 50vh;
+  background-color: white;
+  padding: 20px 10px 0px 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 180px;
+  margin-right: 200px;
+}
+.btn-1{
+  padding: 12px 20px;
+  border-radius: 5px;
+  background-color: palevioletred;
+  color: white;
+  box-shadow: 0px;
+  border: none;
+  margin-left: 150px;
+}
+.image-1{
+  display: flex;
+  width: 50px;
+  height: auto;
+}
+.phara-middle{
+  margin: 90px;
+}
+.title-1{
+  font-size: 30px;
+  font-weight: bold;
+}
+.description-1{
+  width: 60%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.box-demo1{
+  display: flex;
+  margin-top: 5px;
+  margin-left: 300px;
+  margin-right: 50px;
+}
+.image-12{
+  padding-right: 10px;
+  width: 300px;
+  height: auto;
+}
+.background{
+  margin-top: 50px;
+  background-image: url("../images/Rectangle\ 9.png");
+  padding-bottom: 100px;
+  margin-right: 0px;
+  background-repeat: no-repeat;
+  background-position: 200px;
+}
+.email{
+  margin-left: 450px;
+  margin-top: -50px;
+}
+.email-1{
+  padding: 10px;
+  padding-right: 300px;
+  border-radius: 5px;
+  margin-left: 220px;
+}
+.btn-2{
+  background-color: palevioletred;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+.footer{
+  background-color: black;
+  color: white;
+}
+.strong{
+  color: palevioletred;
+}
